@@ -1,8 +1,8 @@
 class Hop < Formula
   desc "Fuzzy git worktree switcher powered by fzf"
   homepage "https://github.com/tjgoldblatt/hop"
-  url "https://github.com/tjgoldblatt/hop/archive/refs/tags/v1.1.0.tar.gz"
-  sha256 "18dd877367169701ef1fceb45dec94b6d02c8a656f24af2a3600941b13134600"
+  url "https://github.com/tjgoldblatt/hop/archive/refs/tags/v1.1.1.tar.gz"
+  sha256 "e8f470bff6ea39205647cc14af67592e645182fea1404b14fdcffbaa217bb89b"
   license "MIT"
 
   depends_on "fzf"
